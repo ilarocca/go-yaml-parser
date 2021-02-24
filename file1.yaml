@@ -1,0 +1,11 @@
+id: "514"
+sector: 3
+tasks:
+  - feature/task2
+  - feature/task4
+dailyHours:
+  - 8
+  - 10
+languages:
+  Javascript: 8.8
+  Golang: 7
