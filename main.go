@@ -9,9 +9,6 @@ import (
 	"gopkg.in/yaml.v3"
 )
 
-
-
-
 func main() {
 	// Initial declaration
  m := map[string]interface{}{
